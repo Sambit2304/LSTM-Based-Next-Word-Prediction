@@ -89,7 +89,7 @@ An embedding layer converts word indices into dense vectors that capture semanti
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/lstm-next-word-prediction.git
+git clone https://github.com/Sambit2304/LSTM-Based-Next-Word-Prediction.git
 ```
 
 2. Install dependencies
